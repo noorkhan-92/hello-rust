@@ -1,3 +1,3 @@
-install cargo on your system\n
-cd to hello-rust directory\n
+install cargo on your system<br>
+cd to hello-rust directory<br>
 run the command `cargo run`
